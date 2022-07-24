@@ -1,0 +1,140 @@
+Nome: beedrill
+Tipos: bug, poison
+Abilidades: swarm, sniper
+Weight 295
+Hight 10
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png
+
+Nome: blastoise
+Tipos: water
+Abilidades: torrent, rain-dish
+Weight 855
+Hight 16
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png
+
+Nome: bulbasaur
+Tipos: grass, poison
+Abilidades: overgrow, chlorophyll
+Weight 69
+Hight 7
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
+
+Nome: butterfree
+Tipos: bug, flying
+Abilidades: compound-eyes, tinted-lens
+Weight 320
+Hight 11
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png
+
+Nome: caterpie
+Tipos: bug
+Abilidades: shield-dust, run-away
+Weight 29
+Hight 3
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png
+
+Nome: charizard
+Tipos: fire, flying
+Abilidades: blaze, solar-power
+Weight 905
+Hight 17
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+
+Nome: charmander
+Tipos: fire
+Abilidades: blaze, solar-power
+Weight 85
+Hight 6
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png
+
+Nome: charmeleon
+Tipos: fire
+Abilidades: blaze, solar-power
+Weight 190
+Hight 11
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png
+
+Nome: ivysaur
+Tipos: grass, poison
+Abilidades: overgrow, chlorophyll
+Weight 130
+Hight 10
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png
+
+Nome: kakuna
+Tipos: bug, poison
+Abilidades: shed-skin
+Weight 100
+Hight 6
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png
+
+Nome: metapod
+Tipos: bug
+Abilidades: shed-skin
+Weight 99
+Hight 7
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png
+
+Nome: pidgeot
+Tipos: normal, flying
+Abilidades: keen-eye, tangled-feet, big-pecks
+Weight 395
+Hight 15
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png
+
+Nome: pidgeotto
+Tipos: normal, flying
+Abilidades: keen-eye, tangled-feet, big-pecks
+Weight 300
+Hight 11
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png
+
+Nome: pidgey
+Tipos: normal, flying
+Abilidades: keen-eye, tangled-feet, big-pecks
+Weight 18
+Hight 3
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png
+
+Nome: raticate
+Tipos: normal
+Abilidades: run-away, guts, hustle
+Weight 185
+Hight 7
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png
+
+Nome: rattata
+Tipos: normal
+Abilidades: run-away, guts, hustle
+Weight 35
+Hight 3
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png
+
+Nome: squirtle
+Tipos: water
+Abilidades: torrent, rain-dish
+Weight 90
+Hight 5
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png
+
+Nome: venusaur
+Tipos: grass, poison
+Abilidades: overgrow, chlorophyll
+Weight 1000
+Hight 20
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png
+
+Nome: wartortle
+Tipos: water
+Abilidades: torrent, rain-dish
+Weight 225
+Hight 10
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png
+
+Nome: weedle
+Tipos: bug, poison
+Abilidades: shield-dust, run-away
+Weight 32
+Hight 3
+Sprites_FrontDefault https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png
+
